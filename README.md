@@ -15,10 +15,7 @@ Non-Maximum Suppression (NMS): Suppresses overlapping bounding boxes for accurat
 Installation
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/YOLO-Object-Detection.git
-cd YOLO-Object-Detection
+
 Install the required dependencies:
 
 bash
